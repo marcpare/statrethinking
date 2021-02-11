@@ -1,1 +1,1 @@
-homework for Statistical Rethinking
+**homework for Statistical Rethinking**
